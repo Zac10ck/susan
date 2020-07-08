@@ -21,7 +21,7 @@ plt.xlabel('x Label')
 plt.ylabel('y Label')
 plt.title('nonlinear fit')
 
-plt.legend()
+plt.legend('nonlinear')
 
 # function to show the plot 
 plt.show() 
